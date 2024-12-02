@@ -19,3 +19,9 @@ Name = "Alex Adler - a project"
 Url = "https://adler.robertoholm.es/"
 Image = "https://alex-adler.github.io/favicon/favicon.svg"
 Description = "Engineering for the near future"
+
+[[Websites]]
+Name = "Xx_TheMilkMan69_xX's Epic Lounge"
+Url = "https://xxthemilkman69xx.neocities.org/"
+Image = "https://xxthemilkman69xx.neocities.org/milkbanner.gif"
+Description = "personal dumping ground"
